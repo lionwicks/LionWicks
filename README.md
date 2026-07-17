@@ -1,5 +1,10 @@
-## Hi there 👋
-
+<h1><div align="center">
+Opa! meu nome é León 
+</div></h1>
+<h2><div align="center">
+-~=Aluno do curso Técnico em Desenvolvimento de jogos digitais=~-
+</div></h2>
+.
 <!--
 **lionwicks/LionWicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
